@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.tw.firebaseintegrationdemo;
 
 import androidx.multidex.MultiDexApplication;
 
